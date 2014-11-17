@@ -136,14 +136,4 @@
     <string name="setting_confirmation_yes">Yes</string>
     <string name="setting_confirmation_no">No</string>
  
-    <!-- Reboot menu -->
-    <!-- Button to reboot the phone, within the Reboot Options dialog -->
-    <string name="reboot_reboot">Reboot</string>
-    <!-- Button to reboot the phone into recovery, within the Reboot Options dialog -->
-    <string name="reboot_recovery">Recovery</string>
-    <!-- Button to reboot the phone into bootloader, within the Reboot Options dialog -->
-    <string name="reboot_bootloader">Bootloader</string>
-    <!-- Button to soft reboot the device, within the Reboot Options dialog -->
-    <string name="reboot_soft">Soft reboot</string>
-
 </resources>
